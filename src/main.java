@@ -5,5 +5,8 @@ public class main {
         System.out.println("hey");
 
         System.out.println("bla bla");
+
+        System.out.println("add line 1");
+        System.out.println("add line 2");
     }
 }
