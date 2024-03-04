@@ -11,6 +11,8 @@ public class main {
         System.out.println("There");
         System.out.println("Hi");
 
+        System.out.println("number1");
+
         System.out.println("Hi");
 
         System.out.println("bla bla");
