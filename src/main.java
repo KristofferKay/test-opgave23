@@ -10,5 +10,7 @@ public class main {
         System.out.println("add line 2");
 
         System.out.println("extra");
+
+        System.out.println("bla bla 2");
     }
 }
