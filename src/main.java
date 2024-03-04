@@ -13,6 +13,7 @@ public class main {
 
         System.out.println("number1");
         System.out.println("number2");
+        System.out.println("number3");
 
         System.out.println("Hi");
 
