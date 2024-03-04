@@ -13,10 +13,11 @@ public class main {
 
         System.out.println("Hi");
 
+        System.out.println("bla bla");
 
+        System.out.println("add line 1");
+        System.out.println("add line 2");
 
-
-
+        System.out.println("extra");
     }
 }
-˝
