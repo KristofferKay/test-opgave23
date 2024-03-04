@@ -21,5 +21,7 @@ public class main {
         System.out.println("extra");
 
         System.out.println("bla bla 2");
+
+        System.out.println("B commits 1");
     }
 }
