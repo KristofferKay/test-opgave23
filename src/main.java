@@ -27,6 +27,7 @@ public class main {
         System.out.println("bla bla 2");
 
         System.out.println("B commits 1");
+        System.out.println("fnkesjfnj");
         System.out.println("B commit 2");
     }
 }
